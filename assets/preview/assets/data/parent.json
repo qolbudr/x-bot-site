@@ -1,0 +1,37 @@
+{
+	"style":"parent",
+	"text": "Halo selamat datang, apakah anda ingin mencoba bot ini ?",
+	"button": [
+		{
+			"text":"Ya",
+			"type":"text",
+			"goto":""
+		},
+		{
+			"text":"Tidak",
+			"type":"text",
+			"goto":""
+		},
+		{
+			"text":"Tidak",
+			"type":"text",
+			"goto":""
+		},
+		{
+			"text":"Tidak",
+			"type":"text",
+			"goto":""
+		},
+		{
+			"text":"Tidak",
+			"type":"text",
+			"goto":""
+		},
+		{
+			"text":"Tidak",
+			"type":"text",
+			"goto":""
+		}
+	],
+	"save": "kemauan"
+}
